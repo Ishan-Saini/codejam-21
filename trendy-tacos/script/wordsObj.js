@@ -9,4 +9,11 @@ export let items = {
   word8: ["AutoCAD","FreeCAD","DDAACCeoetruFA","drawing software"],
   word9: ["Evernote","NixNote","eettrevEixNoNo","help you take notes and stay organized"],
   word10: ["CCleaner","BleachBit","itchleaBnaeerCBCl","guards your privacy and frees disk space"],
+  word11: ["FL Studio", "Audacity", "FituLAuctdaSdioy", "Audio editor"],
+  word12: ["Photoshop", "Gimp", "PhotsGihoopmp", "Graphics/Drawing"],
+  word13: ["Microsoft Office", "Libre Office", "MOoorOfffsefctcfiLcieibrie", "Office Productivity"],
+  word14: ["Winzip", "7-Zip", "Wzinip7Zip",	"Compression tool"],
+  word15: ["McAffe", "ClamWin", "MWfalcmCAfien",	"AntiVirus"],
+  word16: ["AutoDesk Maya",	"Blender", "AyaeBuneteolMadDskr", "3D graphic tool"],
+  word17: ["Adobe Dreamweaver", "Bluefish", "AebedfraaDowlviemueBserh", "Website creation tool"], 
 };
